@@ -2,8 +2,9 @@
   "version": "1.1",
   "download_url": "https://github.com/doombringer2999-beep/macro-pro/releases/download/v1.1/Macro_Pro.exe",
   "changelog": [
-    "Birden fazla PID'e yönerge esnekliği getirildi.",
-    "MTU bugu fixlendi.",
-    "V4 ağır perfonmans iyileştirmesi yapıldı."
+    "UnNever özelliği daha kararlı bir hali ile yeniden getirildi.",
+    "Banner özelliği eklendi ve reset özelliği tam güçle çalışır hale getirildi.",	
+    "Bellek temizleme özelliği yeniden getirildi ve ağır perfonmans iyileştirmeleri yapıldı.",
+    "V4 nihai sürüm yayımlandı"
   ]
 }
