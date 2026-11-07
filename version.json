@@ -2,9 +2,9 @@
   "version": "1.1",
   "download_url": "https://github.com/doombringer2999-beep/macro-pro/releases/download/v1.1/Macro_Pro.exe",
   "changelog": [
-    "UnNever özelliği daha kararlı bir hali ile yeniden getirildi.",
-    "Banner özelliği eklendi ve reset özelliği tam güçle çalışır hale getirildi.",	
-    "Bellek temizleme özelliği yeniden getirildi ve ağır perfonmans iyileştirmeleri yapıldı.",
-    "V4 nihai sürüm yayımlandı"
+    "Zamanlayıcı çözünürlüğü rework yapıldı",
+    "Nagle özelliği artık çalışır halde yeniden getirildi",	
+    "UnNever rework yapıldı.",
+    "Anti Lag  artık DNS ayarlarını kontrol edebilir[BETA]"
   ]
 }
